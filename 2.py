@@ -1,0 +1,6 @@
+print("Greeting")
+name = input("What is your name? ")
+print(f"Hello, {name}! ")
+print("Welcome to CTAP.")
+print("You are learning python.")
+print("Keep going!")

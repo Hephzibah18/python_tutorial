@@ -1,0 +1,6 @@
+print("Favourite Things")
+name = input("Enter name: ")
+color = input("Enter favourite colour:")
+food = input("Enter favourite food: ")
+subject = input("Enter favourite subject: ")
+print(f"My name is {name}, my favourite colour is {color}, my favourite food is {food}, and my favourite subject is {subject}.")

@@ -1,0 +1,5 @@
+print("Personal Introduction")
+name = input("Enter name: ")
+age = input("Enter age: ")
+colour = input("Enter favourite colour: ")
+print(f"My name is {name}.\nI am {age} years old.\nMy favourite colour is {colour} ")
